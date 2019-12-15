@@ -33,5 +33,5 @@ module.exports = {
 	},
 
 	headerSize: 41,
-	dataSize: 3
+	dataSize: 508 - 41
 };
